@@ -7,7 +7,7 @@ comments: false
 [Task and motion planning methods: application and limitation](assets/files/Task_and_motion_planning_methods__application_and_limitation_long_version.pdf)  
 *ICINCO 2022*  
 Kai ZHANG, Eric LUCET, Julien ALEXANDRE DIT SANDRETTO,Selma KCHIR, and David FILLIAT  
-[[paper](assets/files/Task_and_motion_planning_methods__application_and_limitation_long_version.pdf)]
+[[paper]](https://github.com/kai-zhang-er/kai-zhang-er.github.io/blob/main/assets/files/Task_and_motion_planning_methods__application_and_limitation_long_version.pdf)
 
 [Road Network Extraction from Satellite Images Using CNN Based Segmentation and Tracing]( https://ieeexplore.ieee.org/abstract/document/8898565 ).  
 *IGARSS 2019-2019 IEEE International Geoscience and Remote Sensing Symposium*. IEEE, 2019.   
