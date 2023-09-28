@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in remote sensing science, Wuhan University, 2019
 * M.S. in robotics, Institut Polytechnique de Paris(ENSTA), 2022
-* Ph.D in robotics, nstitut Polytechnique de Paris(ENSTA), 2025 (expected)
+* Ph.D in robotics, Institut Polytechnique de Paris(ENSTA), 2025 (expected)
 
 <!-- Work experience
 ======
@@ -42,7 +42,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -56,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
