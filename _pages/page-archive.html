@@ -5,8 +5,7 @@ permalink: /page-archive/
 author_profile: false
 ---
 
+{% include base_path %}
 {% for post in site.pages %}
-  {% unless post.hidden %}
-    {% include archive-single.html %}
-  {% endunless %}
+  {% include archive-single.html %}
 {% endfor %}
