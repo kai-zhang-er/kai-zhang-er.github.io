@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-
-### Hello, I am Kai ZHANG, a 3rd year PhD student in IP Paris. My research topic is on task and motion planning. 
+======
+ Hello, I am Kai ZHANG, a 3rd year PhD student in IP Paris. My research topic is on task and motion planning. 
 
 
 News
