@@ -9,7 +9,12 @@ redirect_from:
 ---
 
 
-I am Kai ZHANG, a 3rd year PhD student in IP Paris. My research interest is on task and motion planning. 
+I am Kai ZHANG, a 3rd year PhD student in Institut Polytechnique de Paris. I also work at Robotic control and supervision laboratory in CEA List. My PhD thesis is on task planning for a mobile robot in logistics environment.
+
+My research interests include:
+* Task and motion planning
+* Reinforcement learning
+* Computer vision
 
 
 News
