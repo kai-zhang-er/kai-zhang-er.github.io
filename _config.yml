@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : *name
-  avatar           : "images/bio.jpg"
+  avatar           : "bio.jpg"
   bio              : "algorithm *designer* and application *creator*"
   location         : "Paris"
   employer         :
