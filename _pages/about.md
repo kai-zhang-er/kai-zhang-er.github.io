@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Me"
+title: "Hello,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-======
- Hello, I am Kai ZHANG, a 3rd year PhD student in IP Paris. My research topic is on task and motion planning. 
+
+I am Kai ZHANG, a 3rd year PhD student in IP Paris. My research interest is on task and motion planning. 
 
 
 News
